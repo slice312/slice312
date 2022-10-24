@@ -57,6 +57,35 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slice312&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slice312&theme=tokyonight" alt="mystreak"/>
+  <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/slice312/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/slice312/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/slice312/differ?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/slice312/differ"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/slice312/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/slice312/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<img src="https://img.shields.io/github/stars/slice312?label=Stars" alt="stars">
+<img src="https://komarev.com/ghpvc/?username=slice312&color=brightgreen" alt="watching_count" />
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=slice312&repo=slice312&countColorcountColor&countColor=%237B1E7B"/>
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/slice312/github-readme)
 </p>
 
 <hr>
