@@ -20,6 +20,8 @@
     <br>
     💻 I love writing code and learn anythings about it
     <br>
+    🌱 Now I mainly do front-end development and research [Feature-Sliced Design](https://feature-sliced.design) methodology
+    <br>
     📫 How to reach me: <a href="mailto: tairovtalgat@gmail.com">tairovtalgat@gmail.com</a>
     <!--  TODO: about feature sliced design -->
 </p>
@@ -37,7 +39,6 @@
     <a href="https://github.com/search?q=user%3Aslice312+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/topics/nodejs?q=user%3Aslice312"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
@@ -65,6 +66,9 @@
     </a>
     <a href="https://github.com/topics/expo?q=user%3Aslice312">
         <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37">
+    </a>
+    <a href="https://github.com/topics/nodejs?q=user%3Aslice312">
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
     </a>
     <a href="https://github.com/topics/expressjs?q=user%3Aslice312">
         <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
