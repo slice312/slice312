@@ -70,8 +70,8 @@
     </tr>
     <tr>
       <td><a href="https://github.com/slice312/differ"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/slice312/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/slice312/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/slice312/react-native-table-component?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/slice312/react-native-table-component?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
