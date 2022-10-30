@@ -54,11 +54,5 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=slice312&theme=tokyonight" alt="mystreak"/>
-
-
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/slice312/github-readme)
-</p>
-
 <hr>
 
