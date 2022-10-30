@@ -20,7 +20,7 @@
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    🌱 Now I mainly do front-end development and research [Feature-Sliced Design](https://feature-sliced.design) methodology
+    🌱 Now I mainly do front-end development and research <a href="https://feature-sliced.design">Feature-Sliced Design</a> methodology
     <br>
     📫 How to reach me: <a href="mailto: tairovtalgat@gmail.com">tairovtalgat@gmail.com</a>
     <!--  TODO: about feature sliced design -->
