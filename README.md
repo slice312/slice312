@@ -21,6 +21,7 @@
     💻 I love writing code and learn anythings about it
     <br>
     📫 How to reach me: <a href="mailto: tairovtalgat@gmail.com">tairovtalgat@gmail.com</a>
+    <!--  TODO: about feature sliced design -->
 </p>
 
 <hr>
@@ -47,11 +48,26 @@
     <a href="https://github.com/topics/react?q=user%3Aslice312">
         <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
+   <a href="https://github.com/topics/react-native?q=user%3Aslice312">
+        <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+    </a>
+    <a href="https://github.com/topics/redux?q=user%3Aslice312">
+        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/react-query?q=user%3Aslice312">
+        <img alt="ReactQuery" src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white">
+    </a>
     <a href="https://github.com/topics/expressjs?q=user%3Aslice312">
         <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
     </a>
     <a href="https://github.com/topics/nestjs?q=user%3Aslice312">
         <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/sass?q=user%3Aslice312">
+        <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/styled-components?q=user%3Aslice312">
+        <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white">
     </a>
 </p>
 
@@ -69,8 +85,11 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white">
+    <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white">
+    <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black">
 </p>
 
 
