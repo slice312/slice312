@@ -39,6 +39,7 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 [![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
 <br>
 <div align=center>
@@ -50,5 +51,6 @@
     </a>
 </div>
 
+[![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
 <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <hr>
