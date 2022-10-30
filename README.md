@@ -52,9 +52,5 @@
         <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=slice312&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
 </div>
-
-&nbsp;
-<br>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <hr>
+<img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
