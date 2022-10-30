@@ -104,12 +104,14 @@
 </p>
 
 
+[Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
+
 ## 📊 Github stats
 <details> 
     <summary>💻 GitHub Profile Stats</summary>
-    <br/>
-[![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
-    <br>
+    <p>
+        [Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
+    </p>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=slice312&theme=react&border=61dafb&hide_border=true" alt="slice312" />
