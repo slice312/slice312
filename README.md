@@ -106,9 +106,9 @@
 
 ## 📊 Github stats
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    [![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
+    <summary>💻 GitHub Profile Stats</summary>
+    <br/>
+[![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
     <br>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
