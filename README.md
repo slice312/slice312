@@ -45,17 +45,26 @@
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="https://github.com/topics/dotnet?q=user%3Aslice312">
+        <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">
+    </a>
     <a href="https://github.com/topics/react?q=user%3Aslice312">
         <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
-   <a href="https://github.com/topics/react-native?q=user%3Aslice312">
+    <a href="https://github.com/topics/nexjs?q=user%3Aslice312">
+        <img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/react-native?q=user%3Aslice312">
         <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
     <a href="https://github.com/topics/redux?q=user%3Aslice312">
         <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">
     </a>
     <a href="https://github.com/topics/react-query?q=user%3Aslice312">
-        <img alt="ReactQuery" src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white">
+        <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/expo?q=user%3Aslice312">
+        <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37">
     </a>
     <a href="https://github.com/topics/expressjs?q=user%3Aslice312">
         <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
@@ -63,22 +72,39 @@
     <a href="https://github.com/topics/nestjs?q=user%3Aslice312">
         <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white">
     </a>
+    <a href="https://github.com/topics/angularjs?q=user%3Aslice312">
+        <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/jest?q=user%3Aslice312">
+        <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white">
+    </a>
     <a href="https://github.com/topics/sass?q=user%3Aslice312">
         <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white">
     </a>
     <a href="https://github.com/topics/styled-components?q=user%3Aslice312">
         <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white">
     </a>
+    <a href="https://github.com/topics/mui?q=user%3Aslice312">
+        <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/tailwind?q=user%3Aslice312">
+        <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/telegram?q=user%3Aslice312">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
+    </a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
 <p>
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
 </p>
 
 
@@ -86,10 +112,10 @@
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white">
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white">
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black">
+    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>
 
 
