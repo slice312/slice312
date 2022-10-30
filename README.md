@@ -2,21 +2,21 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aidar;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Talgat;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/aidar-ionov/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/talgat-tairov-402a0a1aa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Aidar Bakytbekov, Frontend Developer & from Kyrgyzstan
+  Hi, I'm Talgat Tairov, Frontend Developer & from Kyrgyzstan
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📫 How to reach me: <a href="mailto: aidarionov@gmail.com">aidarionov@gmail.com</a>
+  📫 How to reach me: <a href="mailto: tairovtalgat@gmail.com">tairovtalgat@gmail.com</a>
 </p>
 
 <hr>
