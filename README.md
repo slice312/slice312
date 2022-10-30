@@ -52,6 +52,9 @@
 <br><br><br><br><br><br><br><br><br>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slice312)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github.com/anuraghazra/github-readme-stats" width="100%"/>
+
+
 <hr>
 
