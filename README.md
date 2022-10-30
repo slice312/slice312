@@ -51,7 +51,7 @@
         <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
     </a>
     <a href="https://github.com/topics/nestjs?q=user%3Aslice312">
-        <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+        <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white">
     </a>
 </p>
 
