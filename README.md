@@ -12,6 +12,7 @@
             <img width="22" src="images/linkedin.svg"> 
             LinkedIn
         </a>
+        &nbsp;
         <a href="https://t.me/slice312">
             <img width="22" src="images/telegram.png">
             Telegram
