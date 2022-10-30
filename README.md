@@ -13,6 +13,7 @@
             LinkedIn
         </a>
         <a href="https://t.me/slice312">
+            <img width="22" src="imgaes/telegram.svg">
             Telegram
         </a>
     </code>
