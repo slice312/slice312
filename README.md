@@ -42,8 +42,15 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="https://github.com/topics/react?q=user%3Aslice312"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://github.com/topics/expressjs?q=user%3Aslice312"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="https://github.com/topics/react?q=user%3Aslice312">
+        <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    </a>
+    <a href="https://github.com/topics/expressjs?q=user%3Aslice312">
+        <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/nestjs?q=user%3Aslice312">
+        <img alt="Nest.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+    </a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
