@@ -52,9 +52,9 @@
 <br><br><br><br><br><br><br><br><br>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=slice312&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=slice312&theme=tokyonight" alt="mystreak"/>
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=slice312&repo=slice312&countColorcountColor&countColor=%237B1E7B"/>
+
 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/slice312/github-readme)
