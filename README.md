@@ -52,6 +52,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slice312&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slice312&layout=compact)](https://github.com/slice312/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
 <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <hr>
