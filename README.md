@@ -12,6 +12,9 @@
             <img width="22" src="images/linkedin.svg"> 
             LinkedIn
         </a>
+        <a href="https://t.me/slice312">
+            Telegram
+        </a>
     </code>
 </h5>
 <br>
