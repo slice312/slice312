@@ -109,6 +109,7 @@
 ## 📊 Github stats
 <details> 
     <summary>💻 GitHub Profile Stats</summary>
+    [![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
     <p>
         [Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
     </p>
