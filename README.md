@@ -48,11 +48,9 @@
         <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=slice312&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
 </div>
-<div align=center>
+<!-- <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slice312&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
+</div> -->
 
 [![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
 <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
