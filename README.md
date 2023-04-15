@@ -19,14 +19,10 @@
 </h5>
 <br>
 <p align="center">
-    Hi, I'm Talgat Tairov, Fullstack Developer & from Kyrgyzstan
-    <br>
-    💻 I love writing code and learn anythings about it
-    <br>
-    🌱 Now I mainly do front-end development and research <a href="https://feature-sliced.design">Feature-Sliced Design</a> methodology
+    Hi, I'm Talgat Tairov, Fullstack Developer from Kyrgyzstan
     <br>
     📫 How to reach me: <a href="mailto: tairovtalgat@gmail.com">tairovtalgat@gmail.com</a>
-    <!--  TODO: about feature sliced design -->
+
 </p>
 
 <hr>
@@ -36,8 +32,6 @@
 ## 🛠️ My favorite tools
 ### 👨‍💻 Programming and markup languages
 <p>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -115,32 +109,8 @@
 </p>
 
 
-### 💻 Software and tools
-
-<p>
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white">
-    <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black">
-    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white">
-</p>
 
 
 [![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
 
-## 📊 Github stats
-<details> 
-    <summary>💻 GitHub Profile Stats</summary>
-    <div align=center>
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=slice312&theme=react&border=61dafb&hide_border=true" alt="slice312" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=slice312&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-    </div>
-    <br>
-    <div align=center>
-      <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-    </div>
-</details>
+
