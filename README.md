@@ -1,91 +1,17 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
-</a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=550&height=80&lines=Yo+Yo+Yo+1-4-8+3+to+the+3+to+the+6+to+the+9.+;Representing+the+ABQ.+What+up+BIATCH!;Leave+at+the+tone." alt="Typing SVG" />
+  </a>
 </h1>
-
 <h5 align="center">
-    <code>
-        <a href="https://www.linkedin.com/in/talgat-tairov-402a0a1aa/" title="LinkedIn Profile">
+        <a href="https://www.linkedin.com/in/talgat-tairov-402a0a1aa/">
             <img width="22" src="images/linkedin.svg"> 
-            LinkedIn
         </a>
         &nbsp;
-<!--         <a href="https://t.me/slice312">
+         <a href="https://t.me/slice312">
             <img width="22" src="images/telegram.png">
-            Telegram
-        </a> -->
-    </code>
+        </a>
 </h5>
 <br>
 <p align="center">
-    Hi, I'm Talgat Tairov, Fullstack Developer from Kyrgyzstan
-    <br>
-    📫 How to reach me: <a href="mailto: tairovtalgat@gmail.com">tairovtalgat@gmail.com</a>
-
+   <a href="mailto: tairovtalgat@gmail.com">tairovtalgat@gmail.com</a>
 </p>
-
-<hr>
-
-<!-- icons https://ileriayo.github.io/markdown-badges/ -->
-
-## 🛠️ My favorite tools
-### 👨‍💻 Programming and markup languages
-<p>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="https://github.com/topics/dotnet?q=user%3Aslice312">
-        <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/react?q=user%3Aslice312">
-        <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-    </a>
-    <a href="https://github.com/topics/nexjs?q=user%3Aslice312">
-        <img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/redux?q=user%3Aslice312">
-        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/react-query?q=user%3Aslice312">
-        <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/nodejs?q=user%3Aslice312">
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/expressjs?q=user%3Aslice312">
-        <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/jest?q=user%3Aslice312">
-        <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/sass?q=user%3Aslice312">
-        <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/styled-components?q=user%3Aslice312">
-        <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white">
-    </a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-<p>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-</p>
-
-
-
-
-[![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
-
-
